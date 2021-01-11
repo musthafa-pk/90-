@@ -1,0 +1,23 @@
+/*
+ ============================================================================
+ Name        : 90percent.c
+ Author      :musthu
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+#include <stdio.h>
+#include <stdlib.h>
+#include <conio.h>
+
+int main(void) {
+	float num,sum;
+	setbuf(stdout,NULL);
+	printf("Enter number: ");
+	scanf("%f",&num);
+	sum=(num*90)/100;
+	printf("90 percent= %f",sum);
+	getch();
+	return 0;
+}
