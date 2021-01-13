@@ -2,9 +2,9 @@
  ============================================================================
  Name        : 90percent.c
  Author      :musthu
- Version     :
+ Version     : 1.0.00
  Copyright   : Your copyright notice
- Description : Hello World in C, Ansi-style
+ Description : 90% calculator in C, Ansi-style
  ============================================================================
  */
 #include <stdio.h>
